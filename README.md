@@ -1,6 +1,6 @@
 # Coffee Sales Excel Dashboard
 
-![Excel Dashboard] (https://github.com/rasadariranasinghe/Coffee-Sales-Dashboard--Excel/blob/main/Coffee%20Sales-Excel%20Dashboard.png)
+![Excel Dashboard](https://github.com/rasadariranasinghe/Coffee-Sales-Dashboard--Excel/blob/main/Coffee%20Sales-Excel%20Dashboard.png)
 
 ## Overview
 This project is an Excel-based dashboard designed to analyze coffee sales data efficiently. It incorporates advanced Excel functions, data validation, and visualization techniques to present sales trends in an interactive format.
